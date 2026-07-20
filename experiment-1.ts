@@ -1,0 +1,18 @@
+let age: number = 20;
+let marks: number = 95.5;
+console.log("Age:", age);
+console.log("Marks:", marks);
+let name: string = "Supraja";
+let college: string = "SVECW";
+console.log("Name:", name);
+console.log("College:", college);
+let isStudent: boolean = true;
+let hasPassed: boolean = false;
+console.log("Is Student:", isStudent);
+console.log("Has Passed:", hasPassed);
+let age: number = 20;
+let name: string = "Supraja";
+let isStudent: boolean = true;
+console.log("Name:", name);
+console.log("Age:", age);
+console.log("Is Student:", isStudent);
